@@ -9,7 +9,7 @@
 ・文字列と配列
 ・ポインタ
 ・ビット演算
-■visual studio codeにおける　ビルド→「gcc ファイル名.c」実行「ファイル名.exe」 
+■visual studio codeにおける　ビルド→「gcc ファイル名.c -o ファイル名」実行「ファイル名.exe」 
 
 
 
